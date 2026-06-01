@@ -1,0 +1,30 @@
+﻿.meu-curriculo {
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    background-color: rgb(224, 212, 203);
+    height: 100vh;
+    color: #323232;
+}
+
+.header {
+    height: 125px;
+    background-color: rgb(77, 39, 7);
+    color: white;
+    display: grid;
+    place-items: center;
+}
+
+.corpo {
+    text-align: center;
+}
+
+.imagem {
+    text-align: center;
+}
+
+.home {
+    text-align: center;
+}
+
+    .home a {
+        color: #323232;
+    }
